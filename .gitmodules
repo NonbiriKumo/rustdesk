@@ -1,0 +1,3 @@
+[submodule "libs/libs/hbb_common"]
+	path = libs/libs/hbb_common
+	url = https://github.com/NonbiriKumo/hbb_common
